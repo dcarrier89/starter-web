@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## New Section
 
 This is the new section
+
+## Deployment
+
+Deployment code goes here
