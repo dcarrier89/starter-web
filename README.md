@@ -13,3 +13,6 @@ This is the new section
 ## Deployment
 
 Deployment code goes here
+
+## Copyright
+The copyright notice
