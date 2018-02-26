@@ -15,7 +15,7 @@ This is the new section
 Deployment code goes here
 
 ## Copyright
-The copyright notice
+The copyright notice. All rights reserverd. 
 
 ## How to Contribute
 
