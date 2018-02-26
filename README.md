@@ -16,3 +16,7 @@ Deployment code goes here
 
 ## Copyright
 The copyright notice
+
+## How to Contribute
+
+Fork the repository.
