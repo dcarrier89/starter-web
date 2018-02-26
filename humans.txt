@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Drew Carrier drewc@choicecrm.com
 
 # THANKS
 
